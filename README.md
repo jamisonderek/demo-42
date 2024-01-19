@@ -1,6 +1,6 @@
 # demo-42
 Hello,
-This is just a project
+This is just a main project
 for understanding
 how github works.  
 My main concern is that 
